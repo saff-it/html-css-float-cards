@@ -8,8 +8,17 @@
     max-width: 1000px;
     margin: auto;
     text-align: center;
+    font-family: 'Fredoka One', sans-serif;
 }
 
 .title{
-    
+    font-size: 25px;
+    color: rgb(201, 23, 121);
+    margin: 25px;
+}
+
+.title-text{
+    font-family: 'Lexend Exa', sans-serif;
+    margin: 25px 0;
+
 }
