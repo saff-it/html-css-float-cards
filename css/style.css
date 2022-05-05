@@ -11,6 +11,8 @@
     font-family: 'Fredoka One', sans-serif;
 }
 
+/* parte alta */
+
 .title{
     font-size: 25px;
     color: rgb(201, 23, 121);
@@ -19,6 +21,16 @@
 
 .title-text{
     font-family: 'Lexend Exa', sans-serif;
-    margin: 25px 0;
+    margin: 40px 0;
+    font-weight: 400;
+}
 
+/* 6 box  */
+
+.box{
+    width: calc(100% / 3 - 30px);
+    height: 100px;
+    background-color: black;
+    margin: 20px 15px;
+    float: left;    
 }
